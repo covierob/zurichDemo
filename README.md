@@ -3,6 +3,4 @@ Location-based Augmented Reality im Tourismus - Venedig der Vergangenheit - w.MA
  
 Coviello Roberto | Wissenschaftlicher Assistent | cove@zhaw.ch
 
-Gassan Christopher | Data Analyst | gassachr@students.zhaw.ch
-
 Hauser Jonas | RPA Consultant | hausejo1@students.zhaw.ch
